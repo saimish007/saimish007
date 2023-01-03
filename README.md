@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @saimish007
+- 👀 I’m interested in ... Python and Ai Automations
+- 🌱 I’m currently learning ... use some codes with Python
+- 💞️ I’m looking to collaborate on ... above projects
+- 📫 How to reach me ... very simple 
